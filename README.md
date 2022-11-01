@@ -1,4 +1,4 @@
-# Directions: Please run the code blocks in order on the notebook, descriptions for the code blocks are provided below
+# Directions: Please run the code blocks in order on the notebook or view file on GitHub for results, descriptions for the code blocks are provided below
 
 # Code Blocks 1-6: connect your drive and import necessary libraries 
 # Code Blocks 7-9: read in the fruit names and image data
