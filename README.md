@@ -2,6 +2,7 @@
 
 # fruit_classification.ipynb 
 * This contains all the code necessary to read data, add noise, train model, check accuracy, etc. (best to use Colab for training and data loading)
+
 Code Blocks 1-6: connect your drive and import necessary libraries 
 Code Blocks 7-9: read in the fruit names and image data
 Code Block 10: shows a random choice of an image in the data and prints it
