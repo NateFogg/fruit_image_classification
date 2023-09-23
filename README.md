@@ -1,5 +1,5 @@
 # Fruit Image Classification Project
-
+![training data example](plots/fresh_stale.png)
 ## Introduction
 This repository contains a fruit image classification project implemented in Jupyter Notebooks. The project focuses on training a Convolutional Neural Network (CNN) to classify various fruits and their freshness. Additionally, a separate file allows real-time predictions using a webcam input using the pre-trained model. This project was the culmination of CS254: Machine Learning at the University of Vermont. It was presented at the University of Vermont's Computer Science Fair in December of 2022.
 
